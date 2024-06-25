@@ -8,3 +8,4 @@ This repository contains all the assignments completed during the Thapar Summer 
 - Exploratory Data Analysis (EDA)
 - Optimization techniques
 
+[Assingment-01](https://colab.research.google.com/drive/1x2Q-_vO76kk6c6QFDl_wmZVYn75fKZ_a?usp=sharing)
